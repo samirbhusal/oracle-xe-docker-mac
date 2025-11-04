@@ -18,5 +18,4 @@ Includes a Docker Compose setup, persistent storage, and connection instructions
 oracle-xe
 ├── docker-compose.yml # Compose configuration
 ├── data/ # Persistent Oracle data files
-├── murach_scripts/ # Optional .sql setup scripts (ap/ex/om)
 └── README.md
